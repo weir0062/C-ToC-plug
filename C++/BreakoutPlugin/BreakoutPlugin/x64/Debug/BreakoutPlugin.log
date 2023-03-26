@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Ball.cpp
+  BallAPI.cpp
+  dllmain.cpp
+  IntVector2.cpp
+  Paddle.cpp
+C:\Users\CHAKKI\Desktop\C-ToC-_Plugin\C++\BreakoutPlugin\BreakoutPlugin\Paddle.cpp(37,26): warning C4305: '=': truncation from 'double' to 'float'
+  PaddleAPI.cpp
+  Vector2.cpp
+  Generating Code...
+     Creating library C:\Users\CHAKKI\Desktop\C-ToC-_Plugin\C++\BreakoutPlugin\x64\Debug\BreakoutPlugin.lib and object C:\Users\CHAKKI\Desktop\C-ToC-_Plugin\C++\BreakoutPlugin\x64\Debug\BreakoutPlugin.exp
+  BreakoutPlugin.vcxproj -> C:\Users\CHAKKI\Desktop\C-ToC-_Plugin\C++\BreakoutPlugin\x64\Debug\BreakoutPlugin.dll
+          1 file(s) copied.
